@@ -19,4 +19,4 @@ fastapi
 requests
 lxml
 mlflow
--e.
+-e .
